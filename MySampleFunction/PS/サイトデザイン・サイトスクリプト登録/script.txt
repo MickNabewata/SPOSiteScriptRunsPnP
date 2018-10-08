@@ -1,0 +1,13 @@
+{
+     "$schema": "schema.json",
+     "actions": [
+         {
+             "verb": "triggerFlow",
+             "url": "your flow url",
+             "name": "Run PnP",
+             "parameters": {
+                   key:"your Azure Storage Key"
+              }
+         }
+     ]
+ }
